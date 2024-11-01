@@ -1,0 +1,31 @@
+
+.ses-wpscd-table {
+	padding: 5px 2px;
+	margin: 0px;
+	border-collapse: collapse;
+}
+
+.ses-wpscd-headerrow {
+	border-bottom: 1px solid #ddd;
+}
+
+.ses-wpscd-row {
+	border-bottom: 1px solid #f9f9f9;
+}
+
+.ses-wpscd-cell {
+	padding: 5px 2px;
+	text-align: center;
+}
+
+.ses-wpscd-left {
+	text-align: left;
+}
+
+.ses-wpscd-right {
+	text-align: right;
+}
+
+#ses-wpscd-product-sales-config {
+	visibility: hidden;
+}
